@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:1E293B,100:FACC15&height=180&section=header&text=MUHAMMED%20ALTHAF&fontSize=40&fontColor=FACC15&animation=twinkling&fontAlignY=38&desc=CYBER%20SECURITY%20ENGINEER%20%7C%20RED%20TEAM%20%7C%20VAPT&descAlignY=62&descColor=E2E8F0" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" alt="Muhammed Althaf" width="100%" />
 </p>
 
 <p align="center">
