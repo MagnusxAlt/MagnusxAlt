@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 150" width="780" height="150">
+  <defs>
+    
+    <g id="L-M">
+      <rect x="0" y="0" width="8" height="56" />
+      <rect x="32" y="0" width="8" height="56" />
+      <rect x="8" y="8" width="8" height="8" />
+      <rect x="24" y="8" width="8" height="8" />
+      <rect x="16" y="16" width="8" height="8" />
+    </g>
+    <g id="L-U">
+      <rect x="0" y="0" width="8" height="48" />
+      <rect x="32" y="0" width="8" height="48" />
+      <rect x="8" y="48" width="24" height="8" />
+    </g>
+    <g id="L-H">
+      <rect x="0" y="0" width="8" height="56" />
+      <rect x="32" y="0" width="8" height="56" />
+      <rect x="8" y="24" width="24" height="8" />
+    </g>
+    <g id="L-A">
+      <rect x="8" y="0" width="24" height="8" />
+      <rect x="0" y="8" width="8" height="48" />
+      <rect x="32" y="8" width="8" height="48" />
+      <rect x="8" y="24" width="24" height="8" />
+    </g>
+    <g id="L-E">
+      <rect x="0" y="0" width="8" height="56" />
+      <rect x="8" y="0" width="32" height="8" />
+      <rect x="8" y="24" width="24" height="8" />
+      <rect x="8" y="48" width="32" height="8" />
+    </g>
+    <g id="L-D">
+      <rect x="0" y="0" width="8" height="56" />
+      <rect x="8" y="0" width="24" height="8" />
+      <rect x="8" y="48" width="24" height="8" />
+      <rect x="32" y="8" width="8" height="40" />
+    </g>
+    <g id="L-L">
+      <rect x="0" y="0" width="8" height="56" />
+      <rect x="8" y="48" width="32" height="8" />
+    </g>
+    <g id="L-T">
+      <rect x="0" y="0" width="40" height="8" />
+      <rect x="16" y="8" width="8" height="48" />
+    </g>
+    <g id="L-F">
+      <rect x="0" y="0" width="8" height="56" />
+      <rect x="8" y="0" width="32" height="8" />
+      <rect x="8" y="24" width="24" height="8" />
+    </g>
+
+    
+    <g id="NAME">
+      <use href="#L-M" x="30" y="78" />
+      <use href="#L-U" x="80" y="78" />
+      <use href="#L-H" x="130" y="78" />
+      <use href="#L-A" x="180" y="78" />
+      <use href="#L-M" x="230" y="78" />
+      <use href="#L-M" x="280" y="78" />
+      <use href="#L-E" x="330" y="78" />
+      <use href="#L-D" x="380" y="78" />
+
+      <use href="#L-A" x="460" y="78" />
+      <use href="#L-L" x="510" y="78" />
+      <use href="#L-T" x="560" y="78" />
+      <use href="#L-H" x="610" y="78" />
+      <use href="#L-A" x="660" y="78" />
+      <use href="#L-F" x="710" y="78" />
+    </g>
+
+    
+    <g id="BOLT" fill="#FEF08A">
+      <rect x="6" y="0" width="6" height="3" />
+      <rect x="3" y="3" width="6" height="3" />
+      <rect x="0" y="6" width="12" height="3" />
+      <rect x="6" y="9" width="6" height="3" />
+      <rect x="3" y="12" width="6" height="3" />
+    </g>
+  </defs>
+
+  <style>
+    .pikachu {
+      animation: hop 7s ease-in-out infinite;
+    }
+    .spark-1 {
+      animation: zap 1.4s steps(2, end) infinite;
+    }
+    .spark-2 {
+      animation: zap 1.4s steps(2, end) 0.7s infinite;
+    }
+
+    @keyframes hop {
+      0%   { transform: translate(26px, 42px); opacity: 0; }
+      3%   { transform: translate(26px, 42px); opacity: 1; }
+      10%  { transform: translate(86px, 12px); opacity: 1; }
+      17%  { transform: translate(146px, 42px); opacity: 1; }
+      24%  { transform: translate(210px, 12px); opacity: 1; }
+      31%  { transform: translate(276px, 42px); opacity: 1; }
+      38%  { transform: translate(340px, 12px); opacity: 1; }
+      45%  { transform: translate(400px, 42px); opacity: 1; }
+      53%  { transform: translate(465px, 8px);  opacity: 1; }
+      61%  { transform: translate(530px, 42px); opacity: 1; }
+      68%  { transform: translate(605px, 12px); opacity: 1; }
+      75%  { transform: translate(695px, 42px); opacity: 1; }
+      82%  { transform: translate(695px, 18px); opacity: 1; }
+      89%  { transform: translate(695px, 42px); opacity: 1; }
+      95%  { transform: translate(695px, 42px); opacity: 0; }
+      100% { transform: translate(26px, 42px);  opacity: 0; }
+    }
+
+    @keyframes zap {
+      0%, 100% { opacity: 0.15; }
+      50%      { opacity: 1; }
+    }
+  </style>
+
+  
+  <use href="#NAME" x="4" y="4" fill="#1E293B" />
+  <use href="#NAME" x="2" y="2" fill="#B45309" />
+  <use href="#NAME" x="0" y="0" fill="#FACC15" />
+
+  
+  <use href="#BOLT" x="8" y="88" class="spark-1" />
+  <use href="#BOLT" x="758" y="88" class="spark-2" />
+
+  
+  <g class="pikachu">
+    
+    <rect x="0" y="9" width="9" height="3" fill="#FACC15" />
+    <rect x="3" y="12" width="6" height="3" fill="#FACC15" />
+    <rect x="3" y="15" width="9" height="3" fill="#FACC15" />
+    <rect x="6" y="18" width="6" height="3" fill="#92400E" />
+    <rect x="9" y="21" width="6" height="3" fill="#92400E" />
+
+    
+    <rect x="15" y="0" width="3" height="3" fill="#111827" />
+    <rect x="30" y="0" width="3" height="3" fill="#111827" />
+    <rect x="15" y="3" width="3" height="3" fill="#FACC15" />
+    <rect x="18" y="3" width="3" height="3" fill="#111827" />
+    <rect x="27" y="3" width="3" height="3" fill="#111827" />
+    <rect x="30" y="3" width="3" height="3" fill="#FACC15" />
+    <rect x="18" y="6" width="3" height="3" fill="#FACC15" />
+    <rect x="27" y="6" width="3" height="3" fill="#FACC15" />
+
+    
+    <rect x="15" y="9" width="18" height="3" fill="#FACC15" />
+    <rect x="12" y="12" width="24" height="9" fill="#FACC15" />
+    <rect x="15" y="21" width="18" height="3" fill="#FACC15" />
+    <rect x="12" y="24" width="21" height="9" fill="#FACC15" />
+    <rect x="33" y="27" width="3" height="3" fill="#FACC15" />
+
+    
+    <rect x="18" y="15" width="3" height="3" fill="#111827" />
+    <rect x="30" y="15" width="3" height="3" fill="#111827" />
+
+    
+    <rect x="15" y="18" width="3" height="3" fill="#EF4444" />
+    <rect x="30" y="18" width="3" height="3" fill="#EF4444" />
+
+    
+    <rect x="15" y="33" width="6" height="3" fill="#B45309" />
+    <rect x="24" y="33" width="6" height="3" fill="#B45309" />
+  </g>
+</svg>
