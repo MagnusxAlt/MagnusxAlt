@@ -1,11 +1,19 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="55" alt="Pixel Pikachu" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=HEY!+I'M+MUHAMMED+ALTHAF;CYBER+SECURITY+ENGINEER;VAPT+%7C+RED+TEAM+%7C+AUDITING" alt="Pixel Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:1E293B,100:FACC15&height=180&section=header&text=MUHAMMED%20ALTHAF&fontSize=40&fontColor=FACC15&animation=twinkling&fontAlignY=38&desc=CYBER%20SECURITY%20ENGINEER%20%7C%20RED%20TEAM%20%7C%20VAPT&descAlignY=62&descColor=E2E8F0" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" height="55" alt="Porygon" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" height="60" alt="Rotom" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="65" alt="Pikachu" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="60" alt="Gengar" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=1000&color=FACC15&center=true&vCenter=true&width=720&lines=%E2%9A%A1+PIKACHU+USED+THUNDERBOLT!+%E2%9A%A1;%E2%9A%A1+VAPT+%7C+RED+TEAMING+%7C+AUDITING+%E2%9A%A1;%E2%9A%A1+BREAKING+SYSTEMS+TO+SECURE+THEM+%E2%9A%A1" alt="Pixel Header" />
 </p>
 
 ## 📌 About Me
@@ -16,11 +24,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=magnusxalt&theme=github-dark&mode=dark" alt="magnusxalt's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=magnusxalt&theme=nightowl&hide_border=true&cache_seconds=86400" alt="magnusxalt's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=magnusxalt&theme=github-dark&mode=dark" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=magnusxalt&theme=tokyonight&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&cache_seconds=86400" alt="magnusxalt's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
@@ -66,5 +70,5 @@
 </p>
 
 <p align="center">
-  <sub>Muhammed Althaf · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,60:1E293B,100:FACC15&height=90&section=footer" width="100%" alt="Footer" />
 </p>
