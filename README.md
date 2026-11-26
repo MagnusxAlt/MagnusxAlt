@@ -1,6 +1,8 @@
-<h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30" alt="Developer" /> I'm Muhammed Althaf
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="55" alt="Pixel Pikachu" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=HEY!+I'M+MUHAMMED+ALTHAF;CYBER+SECURITY+ENGINEER;VAPT+%7C+RED+TEAM+%7C+AUDITING" alt="Pixel Header" />
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
@@ -31,6 +33,7 @@
   <img src="https://img.shields.io/badge/Web_&_API_VAPT-1F2937?style=for-the-badge&logo=owasp&logoColor=white" alt="Web & API VAPT" />
   <img src="https://img.shields.io/badge/Infrastructure_Auditing-0F172A?style=for-the-badge&logo=shield&logoColor=white" alt="Infrastructure Auditing" />
   <img src="https://img.shields.io/badge/Log_Analysis_&_SIEM-1E3A8A?style=for-the-badge&logo=elastic&logoColor=white" alt="Log Analysis & SIEM" />
+  <img src="https://img.shields.io/badge/GRC_&_Compliance-374151?style=for-the-badge&logo=checkmarx&logoColor=white" alt="GRC & Compliance" />
 </p>
 
 ## 🛠️ Security & Auditing Toolkit
@@ -56,7 +59,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Proxmox_/_KVM-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox / KVM" />
